@@ -1,69 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="506" viewBox="0 0 960 506" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Hussain M | Tech Stack</title>
+  <desc id="desc">LANGUAGES: Java / JavaScript / TypeScript, Python / SQL / PL/SQL; FRONTEND: React / Next.js / Angular, HTML / CSS / Tailwind CSS; BACKEND: Spring Boot / Spring MVC, Spring Security, Node.js / Express.js; DATA: MongoDB / MySQL / PostgreSQL, Supabase / Redis; AI &amp; COMPUTER VISION: TensorFlow / Keras / PyTorch, OpenCV / Scikit-learn, Transfer learning / ML; CLOUD &amp; DEVOPS: AWS / Docker / CI/CD, GitHub Actions / Postman; ARCHITECTURE: MVC / OOP / SOLID, Design patterns, Microservices; DEVELOPER TOOLS: Git / GitHub / VS Code, IntelliJ / Figma, Agile / Scrum; CS FUNDAMENTALS: Data structures &amp; algorithms, System design / OS, Networks / DBMS</desc>
   <defs>
     <style>
-      .bg { fill: #050607; }
-      .frame { stroke: rgba(255,255,255,0.06); stroke-width: 1; fill: none; }
-      .section-label {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-        font-size: 9px;
-        letter-spacing: 3.5px;
-        text-transform: uppercase;
-        fill: rgba(255,255,255,0.4);
-      }
-      .cat-label {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-        font-size: 9px;
-        letter-spacing: 2.5px;
-        text-transform: uppercase;
-        fill: rgba(255,255,255,0.3);
-      }
-      .tech {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-        font-size: 11.5px;
-        letter-spacing: 1px;
-        fill: rgba(255,255,255,0.7);
-      }
-      .dot { fill: rgba(45,140,240,0.5); }
-      .sep { fill: rgba(255,255,255,0.06); }
+      text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+      .mono { font-family: 'Cascadia Code', Consolas, monospace; }
+
     </style>
+
   </defs>
-
-  <rect class="bg" width="900" height="170"/>
-  <rect class="frame" x="0.5" y="0.5" width="899" height="169"/>
-
-  <!-- Title -->
-  <text class="section-label" x="32" y="28">Tech Stack</text>
-
-  <!-- Languages label -->
-  <text class="cat-label" x="32" y="58">Languages</text>
-
-  <!-- Language items -->
-  <circle class="dot" cx="37" cy="79" r="3"/><text class="tech" x="46" y="83">JavaScript</text>
-  <circle class="dot" cx="145" cy="79" r="3"/><text class="tech" x="154" y="83">TypeScript</text>
-  <circle class="dot" cx="255" cy="79" r="3"/><text class="tech" x="264" y="83">Python</text>
-  <circle class="dot" cx="335" cy="79" r="3"/><text class="tech" x="344" y="83">Java</text>
-  <circle class="dot" cx="400" cy="79" r="3"/><text class="tech" x="409" y="83">Dart</text>
-  <circle class="dot" cx="460" cy="79" r="3"/><text class="tech" x="469" y="83">C++</text>
-
-  <!-- Vertical separator -->
-  <rect class="sep" x="555" y="48" width="1" height="105"/>
-
-  <!-- Frameworks label -->
-  <text class="cat-label" x="585" y="58">Frameworks</text>
-
-  <!-- Framework items -->
-  <circle class="dot" cx="590" cy="79" r="3"/><text class="tech" x="599" y="83">React / Next.js</text>
-  <circle class="dot" cx="735" cy="79" r="3"/><text class="tech" x="744" y="83">Node.js</text>
-  <circle class="dot" cx="590" cy="107" r="3"/><text class="tech" x="599" y="111">Flutter</text>
-  <circle class="dot" cx="735" cy="107" r="3"/><text class="tech" x="744" y="111">Express</text>
-
-  <!-- Tools label -->
-  <text class="cat-label" x="32" y="115">Tools</text>
-
-  <!-- Tool items -->
-  <circle class="dot" cx="37" cy="137" r="3"/><text class="tech" x="46" y="141">Git</text>
-  <circle class="dot" cx="100" cy="137" r="3"/><text class="tech" x="109" y="141">Docker</text>
-  <circle class="dot" cx="190" cy="137" r="3"/><text class="tech" x="199" y="141">MongoDB</text>
-  <circle class="dot" cx="295" cy="137" r="3"/><text class="tech" x="304" y="141">PostgreSQL</text>
-  <circle class="dot" cx="415" cy="137" r="3"/><text class="tech" x="424" y="141">Firebase</text>
+  <rect x=".5" y=".5" width="959" height="505" rx="18" fill="#080c12" stroke="#243345"/>
+  <text x="32" y="38" font-size="11" fill="#63b3ff" font-weight="600" letter-spacing="2">02 / TECH STACK</text><rect x="32" y="68" width="288" height="126" rx="10" fill="#101823" stroke="#243345"/><g transform="translate(48 81) scale(.8)" stroke="#63b3ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m8 5-6 7 6 7m8-14 6 7-6 7m-3-17-2 20"/></g><text x="76" y="95" font-size="11" fill="#63b3ff" font-weight="600" letter-spacing="1">LANGUAGES</text><text x="48" y="125" font-size="15" fill="#f0f5fc" font-weight="400" >Java / JavaScript / TypeScript</text><text x="48" y="149" font-size="15" fill="#a8b7c9" font-weight="400" >Python / SQL / PL/SQL</text><rect x="336" y="68" width="288" height="126" rx="10" fill="#101823" stroke="#243345"/><g transform="translate(352 81) scale(.8)" stroke="#63b3ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="18" rx="3"/><path d="M2 8h20m-13 0v13"/></g><text x="380" y="95" font-size="11" fill="#63b3ff" font-weight="600" letter-spacing="1">FRONTEND</text><text x="352" y="125" font-size="15" fill="#f0f5fc" font-weight="400" >React / Next.js / Angular</text><text x="352" y="149" font-size="15" fill="#a8b7c9" font-weight="400" >HTML / CSS / Tailwind CSS</text><rect x="640" y="68" width="288" height="126" rx="10" fill="#101823" stroke="#243345"/><g transform="translate(656 81) scale(.8)" stroke="#63b3ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/><path d="M6 6h1m-1 12h1m5-12h6m-6 12h6"/></g><text x="684" y="95" font-size="11" fill="#63b3ff" font-weight="600" letter-spacing="1">BACKEND</text><text x="656" y="125" font-size="15" fill="#f0f5fc" font-weight="400" >Spring Boot / Spring MVC</text><text x="656" y="149" font-size="15" fill="#a8b7c9" font-weight="400" >Spring Security</text><text x="656" y="173" font-size="15" fill="#a8b7c9" font-weight="400" >Node.js / Express.js</text><rect x="32" y="210" width="288" height="126" rx="10" fill="#101823" stroke="#243345"/><g transform="translate(48 223) scale(.8)" stroke="#63b3ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5v14c0 4 18 4 18 0V5M3 12c0 4 18 4 18 0"/></g><text x="76" y="237" font-size="11" fill="#63b3ff" font-weight="600" letter-spacing="1">DATA</text><text x="48" y="267" font-size="15" fill="#f0f5fc" font-weight="400" >MongoDB / MySQL / PostgreSQL</text><text x="48" y="291" font-size="15" fill="#a8b7c9" font-weight="400" >Supabase / Redis</text><rect x="336" y="210" width="288" height="126" rx="10" fill="#101823" stroke="#243345"/><g transform="translate(352 223) scale(.8)" stroke="#63b3ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v6m0 8v6M2 12h6m8 0h6M5 5l4 4m6 6 4 4M5 19l4-4m6-6 4-4"/></g><text x="380" y="237" font-size="11" fill="#63b3ff" font-weight="600" letter-spacing="1">AI &amp; COMPUTER VISION</text><text x="352" y="267" font-size="15" fill="#f0f5fc" font-weight="400" >TensorFlow / Keras / PyTorch</text><text x="352" y="291" font-size="15" fill="#a8b7c9" font-weight="400" >OpenCV / Scikit-learn</text><text x="352" y="315" font-size="15" fill="#a8b7c9" font-weight="400" >Transfer learning / ML</text><rect x="640" y="210" width="288" height="126" rx="10" fill="#101823" stroke="#243345"/><g transform="translate(656 223) scale(.8)" stroke="#63b3ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M7 18H6a4 4 0 0 1-1-8 7 7 0 0 1 14-1 5 5 0 0 1-1 9h-1m-9-3 4-4 4 4m-4-4v11"/></g><text x="684" y="237" font-size="11" fill="#63b3ff" font-weight="600" letter-spacing="1">CLOUD &amp; DEVOPS</text><text x="656" y="267" font-size="15" fill="#f0f5fc" font-weight="400" >AWS / Docker / CI/CD</text><text x="656" y="291" font-size="15" fill="#a8b7c9" font-weight="400" >GitHub Actions / Postman</text><rect x="32" y="352" width="288" height="126" rx="10" fill="#101823" stroke="#243345"/><g transform="translate(48 365) scale(.8)" stroke="#63b3ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="2" width="8" height="6" rx="1"/><rect x="1" y="16" width="8" height="6" rx="1"/><rect x="15" y="16" width="8" height="6" rx="1"/><path d="M12 8v4H5v4m7-4h7v4"/></g><text x="76" y="379" font-size="11" fill="#63b3ff" font-weight="600" letter-spacing="1">ARCHITECTURE</text><text x="48" y="409" font-size="15" fill="#f0f5fc" font-weight="400" >MVC / OOP / SOLID</text><text x="48" y="433" font-size="15" fill="#a8b7c9" font-weight="400" >Design patterns</text><text x="48" y="457" font-size="15" fill="#a8b7c9" font-weight="400" >Microservices</text><rect x="336" y="352" width="288" height="126" rx="10" fill="#101823" stroke="#243345"/><g transform="translate(352 365) scale(.8)" stroke="#63b3ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m14 3 7 7M3 21l5-1L20 8l-4-4L4 16Z"/></g><text x="380" y="379" font-size="11" fill="#63b3ff" font-weight="600" letter-spacing="1">DEVELOPER TOOLS</text><text x="352" y="409" font-size="15" fill="#f0f5fc" font-weight="400" >Git / GitHub / VS Code</text><text x="352" y="433" font-size="15" fill="#a8b7c9" font-weight="400" >IntelliJ / Figma</text><text x="352" y="457" font-size="15" fill="#a8b7c9" font-weight="400" >Agile / Scrum</text><rect x="640" y="352" width="288" height="126" rx="10" fill="#101823" stroke="#243345"/><g transform="translate(656 365) scale(.8)" stroke="#63b3ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m2 7 10-5 10 5-10 5Zm3 2v8c5 4 9 4 14 0V9m3-2v12"/></g><text x="684" y="379" font-size="11" fill="#63b3ff" font-weight="600" letter-spacing="1">CS FUNDAMENTALS</text><text x="656" y="409" font-size="15" fill="#f0f5fc" font-weight="400" >Data structures &amp; algorithms</text><text x="656" y="433" font-size="15" fill="#a8b7c9" font-weight="400" >System design / OS</text><text x="656" y="457" font-size="15" fill="#a8b7c9" font-weight="400" >Networks / DBMS</text>
 </svg>

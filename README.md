@@ -1,120 +1,122 @@
 <div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./banner-mobile.svg">
+    <img src="./banner.svg" width="100%" alt="Mohamed Hussain M - Full Stack Developer in Chennai. React, Spring Boot and Python.">
+  </picture>
+
+  <p>
+    <a href="mailto:mohamedhussain18820@gmail.com"><img src="./assets/email.svg" width="132" height="40" alt="Email Mohamed Hussain M"></a>
+    <a href="https://github.com/Hussain-188?tab=repositories"><img src="./assets/github.svg" width="132" height="40" alt="Hussain-188's GitHub repositories"></a>
+    <a href="https://www.linkedin.com/in/mohamedhussain18/"><img src="./assets/linkedin.svg" width="132" height="40" alt="Mohamed Hussain M on LinkedIn"></a>
+    <a href="https://leetcode.com/u/Hussain188/"><img src="./assets/leetcode.svg" width="132" height="40" alt="Hussain188 on LeetCode"></a>
+  </p>
+</div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./banner.svg">
-  <img alt="Mohanraj G — Software Developer" src="./banner.svg" width="100%"/>
+  <source media="(max-width: 600px)" srcset="./about-mobile.svg">
+  <img src="./about.svg" width="100%" alt="Computer Science engineering student at St. Joseph's Institute of Technology. Front End Developer Intern at GEM3S Technologies, June-July 2025. I build full stack web applications and work with computer vision.">
 </picture>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="./about.svg" width="100%" alt="About & Tech Stack"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- GitHub Stats -->
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Mohanraj1232&show_icons=true&hide_border=true&theme=dark&bg_color=050607&title_color=ffffff&text_color=a0a0a0&icon_color=2D8CF0" height="165" alt="GitHub Stats"/> 
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohanraj1232&layout=compact&hide_border=true&theme=dark&bg_color=050607&title_color=ffffff&text_color=a0a0a0" height="165" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-<!-- Streak Stats -->
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Mohanraj1232&theme=dark&hide_border=true&ring=2D8CF0&fire=2D8CF0&currStreakLabel=ffffff&sideLabels=a0a0a0&currStreakNum=ffffff&sideNums=a0a0a0&dates=666666&stroke=22262B&background=050607" width="520" alt="GitHub Streak Stats"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- LeetCode -->
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/mohanraj-g?theme=dark&font=Noto%20Sans&border=0&ext=contest" width="460" alt="LeetCode Stats"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Contribution Activity -->
-
-<div align="center">
-
-<img src="https://github-graph.mohanrajg.me/graph?username=Mohanraj1232&bg_color=050607&color=ffffff&line=2D8CF0&point=ffffff&area=true&area_color=2D8CF0&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
-
-<br/>
-
-<!-- Contribution Snake -->
-
-<div align="center">
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohanraj1232/Mohanraj1232/output/snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mohanraj1232/Mohanraj1232/output/snake.svg" width="100%"/>
+  <source media="(max-width: 600px)" srcset="./tech-stack-mobile.svg">
+  <img src="./tech-stack.svg" width="100%" alt="Tech stack: Java, JavaScript, TypeScript, Python, SQL, PL/SQL; React, Next.js, Angular, HTML, CSS, Tailwind; Spring Boot, Spring MVC, Spring Security, Node.js, Express; MongoDB, MySQL, PostgreSQL, Supabase, Redis; TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn, transfer learning; AWS, Docker, CI/CD, GitHub Actions, Postman; MVC, OOP, SOLID, design patterns, microservices; Git, GitHub, VS Code, IntelliJ, Figma, Agile/Scrum; data structures, algorithms, system design, operating systems, networks, DBMS.">
 </picture>
 
-</div>
+## Selected projects
 
-<br/>
+### 01 &nbsp; Smart Crop Disease Detection
+
+A leaf-image workflow for crop disease detection, treatment recommendations, and prediction history. Combines a React interface and authenticated API with a Python / MobileNetV2 model pipeline.
+
+`React` `Node.js` `MongoDB` `Python` `TensorFlow` `OpenCV`
+
+[Explore the code &rarr;](https://github.com/Hussain-188/mini-project)
+
+### 02 &nbsp; EduConnect
+
+A learning and alumni platform for students, alumni, professors, and management. Includes role-based access, assessments, alumni networking, and resume analysis.
+
+`React` `TypeScript` `Spring Boot` `Spring Security` `MongoDB`
+
+[Explore the code &rarr;](https://github.com/Hussain-188/EduConnect)
+
+### 03 &nbsp; PDF Editor
+
+A web application for editing PDFs, merging and splitting files, and adding watermarks, backed by a Java service. A project at the intersection of browser interfaces and document processing.
+
+`React` `TypeScript` `Java` `Spring Boot` `Docker`
+
+[Explore the code &rarr;](https://github.com/Hussain-188/pdf-editor)
+
+## Experience & milestones
+
+- **GEM3S Technologies - Front End Developer Intern** &middot; June-July 2025. Built responsive React applications, integrated REST APIs, and worked with Git in an Agile team.
+- **B.E. Computer Science** &middot; St. Joseph's Institute of Technology &middot; September 2023-present.
+- **Inter-college hackathon winner** &middot; First place among 60+ teams.
+- **Certifications** &middot; Meta: Introduction to Front-End Development; MongoDB: Associate Developer.
+
+## Problem solving & activity
+
+I practice data structures and algorithms in Java. Explore my [NeetCode submissions](https://github.com/Hussain-188/neetcode-submissions), [LeetCode profile](https://leetcode.com/u/Hussain188/), and [GitHub contributions](https://github.com/Hussain-188).
+
+<p align="center">
+  <a href="https://github.com/Hussain-188">
+    <img src="https://github-stats-extended.vercel.app/api?username=Hussain-188&amp;show_icons=true&amp;hide_border=true&amp;bg_color=080c12&amp;title_color=63b3ff&amp;text_color=a8b7c9&amp;icon_color=6ee7c2" width="440" alt="Live GitHub statistics for Hussain-188">
+  </a>
+  <a href="https://github.com/Hussain-188?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hussain-188&amp;layout=compact&amp;hide_border=true&amp;bg_color=080c12&amp;title_color=63b3ff&amp;text_color=a8b7c9" width="340" alt="Most used languages in Hussain-188's public repositories">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hussain-188">
+    <img src="https://streak-stats.demolab.com/?user=Hussain-188&amp;theme=dark&amp;hide_border=true&amp;ring=63b3ff&amp;fire=6ee7c2&amp;currStreakLabel=63b3ff&amp;background=080c12" width="520" alt="Hussain-188's GitHub contribution streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Hussain188/">
+    <img src="https://leetcard.jacoblin.cool/Hussain188?theme=dark&amp;font=Arial&amp;border=0&amp;ext=contest" width="460" alt="Hussain188's LeetCode solved problems and contest statistics">
+  </a>
+</p>
+
+## Contribution activity
+
+<p align="center">
+  <a href="https://github.com/Hussain-188?tab=overview">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Hussain-188/Hussain-188/output/activity-mobile.svg">
+      <img src="https://raw.githubusercontent.com/Hussain-188/Hussain-188/output/activity.svg" width="100%" alt="Hussain-188's contribution activity, grouped by week and refreshed daily">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hussain-188?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hussain-188/Hussain-188/output/snake-dark.svg">
+      <img src="https://raw.githubusercontent.com/Hussain-188/Hussain-188/output/snake.svg" width="100%" alt="Animated snake tracing Hussain-188's GitHub contributions">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:mohamedhussain18820@gmail.com"><img src="./assets/email.svg" width="132" height="40" alt="Email"></a>
+  <a href="https://github.com/Hussain-188"><img src="./assets/github.svg" width="132" height="40" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/mohamedhussain18/"><img src="./assets/linkedin.svg" width="132" height="40" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/Hussain188/"><img src="./assets/leetcode.svg" width="132" height="40" alt="LeetCode"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hussain-188&amp;color=63b3ff&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Hussain-188's profile view counter">
+</p>
 
 ---
 
-<br/>
-
-<!-- Connect -->
-
-<div align="center">
-
-### Let's Connect
-
-<br/>
-
-<a href="mailto:g.mohanrajgtmt@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>&nbsp;
-
-<a href="https://github.com/Mohanraj1232">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>&nbsp;
-
-<a href="https://www.linkedin.com/in/mohanrajg07/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
-
-<a href="https://leetcode.com/mohanraj-g">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mohanraj1232&color=2D8CF0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
+<p align="center">
+  <strong>Let's build something useful.</strong><br>
+  <a href="mailto:mohamedhussain18820@gmail.com">mohamedhussain18820@gmail.com</a> &nbsp; &middot; &nbsp;
+  <a href="https://www.linkedin.com/in/mohamedhussain18/">LinkedIn</a>
+</p>
